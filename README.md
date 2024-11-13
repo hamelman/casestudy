@@ -1,4 +1,4 @@
-# Professional Case Studies and Web Development Portfolio
+# Professional Case Studies and Other Projects
 
 Welcome to my portfolio repository! This space is dedicated to showcasing my professional case studies and projects, highlighting my experience in customer support management, AI strategy, and web development.
 
