@@ -13,8 +13,9 @@ In addition, I use this repository to practice and develop my web development sk
 ## Case Studies
 Each case study is a deep dive into a specific professional challenge, detailing the problem, solution approach, and outcomes. You can view individual case studies by navigating to the relevant files or folders:
 
-1. **[AI Agent Renewal Strategy](path/to/AI_Agent_Renewal_Case_Study.md)** - Balancing cost efficiency and customer satisfaction in support automation.
-2. **[Other Case Study Title](path/to/Other_Case_Study.md)** - Brief description.
+1. **[Making AI Agents Work in Modern Support](path/to/AI_Agent_Renewal_Case_Study.md)** - Balancing cost efficiency and customer satisfaction in support automation.
+2. **[Building a Staffing Plan for a Live Contact Center](path/to/Other_Case_Study.md)** - Tasked with building a 24/7 staffing plan that meets organizational SLAs including a minimum of 200 outgoing vendor follow-ups per day.
+3. **[Concentious Coaching](path/to/Concentious_Coaching_Case_Study.md)** - Comparing and contrasting strategies for development and performance management of team memebrs with different challenges and needs.
 
 ## Projects and Web Development Practice
 Alongside case studies, I also document my web development practice:
@@ -23,7 +24,7 @@ Alongside case studies, I also document my web development practice:
 - **GitHub Pages customization with Jekyll**
 
 ## How to Use This Repository
-You can navigate through the folders to explore individual case studies or view my web development projects. I frequently update this repository as I complete new projects and case studies.
+You can navigate through the folders to explore individual case studies and eventually view my web development projects. I frequently update this repository as I complete new projects and case studies.
 
 ## Future Goals
 I plan to:
