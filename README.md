@@ -4,9 +4,9 @@ Welcome to my portfolio repository! This space is dedicated to showcasing my pro
 
 ## About
 This repository is a collection of case studies documenting real-world challenges and solutions I've worked on in various industries. These case studies focus on:
-- Strategic analysis for AI implementations in customer support
-- Cost-benefit evaluations and process optimizations
-- Long-term planning and scalability in tech and operations
+- Strategic analysis for AI implementations in customer support, their cost-benefit evaluations and process optimizations
+- Developing customer support centers that adapt to and leverage rapidly advancing, technology-driven environments
+- Implementing mindful coaching practices and innovative development techniques to drive impactful growth and continuous improvement
 
 In addition, I use this repository to practice and develop my web development skills by incorporating GitHub Pages and other tools to enhance the presentation of my work.
 
